@@ -15,9 +15,6 @@ const rewritesConfig = isDevelopment
     ] : [];
 
 const pluginAntdLess = withAntdLess({
-    // modifyVars: {
-    //   '@THEME--DARK': 'theme-dark',
-    // },
     lessVarsFilePath: './src/styles/variables.less',
     // cssLoaderOptions: {
     // esModule: false,

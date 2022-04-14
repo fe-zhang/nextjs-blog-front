@@ -1,4 +1,5 @@
-import type { NextPage } from 'next'
+import type { NextPage } from 'next';
+import cls from './index.module.sass';
 
 const Home: NextPage = () => {
     return (
