@@ -6,13 +6,13 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 // style
-import '../styles/globals.scss';
+import '../styles/globals.less';
 
 function MyApp({ Component, pageProps }: AppProps) {
     return (
         <ThemeProvider>
             <Header />
-            <Component {...pageProps} />
+                <Component {...pageProps} />
             <Footer />
         </ThemeProvider>
     )

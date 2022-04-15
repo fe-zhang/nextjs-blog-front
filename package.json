@@ -3,18 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "NODE_ENV=development next dev",
-    "build": "NODE_ENV=production next build",
-    "start": "NODE_ENV=production next start",
-    "lint": "next lint"
+    "dev": "cross-env NODE_ENV=development next dev",
+    "build": "cross-env NODE_ENV=production next build",
+    "start": "next start",
+    "lint": "next lint",
+    "start:pm2": "cross-env NODE_ENV=production next build && pm2 start -- run start",
+    "pm2:start": "pm2 start yarn --name \"nextjs\" --interpreter bash -- start",
+    "pm2": "yarn && yarn build && yarn pm2:start"
   },
   "dependencies": {
     "antd": "^4.19.5",
+    "cross-env": "^7.0.3",
     "lodash.debounce": "^4.0.8",
     "mobx": "^6.5.0",
     "mobx-react": "^7.3.0",
     "next": "12.1.5",
-    "next-compose-plugins": "^2.2.1",
     "next-plugin-antd-less": "^1.8.0",
     "next-themes": "^0.1.1",
     "react": "18.0.0",
@@ -32,6 +35,9 @@
     "babel-plugin-module-resolver": "^4.1.0",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "next-compose-plugins": "^2.2.1",
     "sass": "^1.50.0",
     "typescript": "4.6.3"
   }

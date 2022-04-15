@@ -2,11 +2,11 @@
  * login
  */
 
-import type { NextPage } from 'next'
+import type { NextPage } from 'next';
+import Link from 'next/link';
 
 // components
 import {Input, Button, Checkbox, Form} from 'antd';
-
 
 // style
 import cls from './index.module.sass';
@@ -49,8 +49,7 @@ const Login: NextPage = () => {
                         </Button>
                     </Form.Item>
                 </Form>
-                {/*不能用nextlink antd样式会影响首页*/}
-                <a href='/'>返回首页</a>
+                <Link href='/'>返回首页</Link>
             </div>
         </div>
     )

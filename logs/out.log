@@ -1,0 +1,1835 @@
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: production
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:21 +08:00: > Ready on http://localhost:10001
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: undefined
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 7.7s (201 modules)
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 7.7s (201 modules)
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 7.9s (201 modules)
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 8.1s (201 modules)
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 7.9s (201 modules)
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:38 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 933 ms (213 modules)
+2022-04-15 05:38 +08:00: wait  - compiling /...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 151 ms (208 modules)
+2022-04-15 05:38 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 86 ms (202 modules)
+2022-04-15 05:38 +08:00: wait  - compiling /login...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 146 ms (202 modules)
+2022-04-15 05:38 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 83 ms (202 modules)
+2022-04-15 05:38 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:38 +08:00: wait  - compiling...
+2022-04-15 05:38 +08:00: event - compiled client and server successfully in 83 ms (202 modules)
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: production
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:40 +08:00: An error occurred, unable to start the server
+2022-04-15 05:40 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: undefined
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1304 ms (201 modules)
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1322 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1283 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1317 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1367 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1331 ms (201 modules)
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1352 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1247 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1285 ms (201 modules)
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 1152 ms (201 modules)
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 469 ms (213 modules)
+2022-04-15 05:41 +08:00: wait  - compiling /...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 499 ms (208 modules)
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 570 ms (213 modules)
+2022-04-15 05:41 +08:00: wait  - compiling /...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 65 ms (202 modules)
+2022-04-15 05:41 +08:00: event - compiled client and server successfully in 462 ms (208 modules)
+2022-04-15 05:41 +08:00: wait  - compiling /login...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:41 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: undefined
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.9s (201 modules)
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.8s (201 modules)
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 7.9s (201 modules)
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 8s (201 modules)
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:47 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 144 ms (213 modules)
+2022-04-15 05:47 +08:00: wait  - compiling /...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 112 ms (208 modules)
+2022-04-15 05:47 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 75 ms (202 modules)
+2022-04-15 05:47 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: event - compiled client and server successfully in 80 ms (202 modules)
+2022-04-15 05:47 +08:00: wait  - compiling /login...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:47 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:47 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 2.2s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 441 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 3s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 3.1s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:49 +08:00: event - compiled successfully in 695 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 677 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 672 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 703 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 693 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 700 ms (58 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 733 ms (58 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled client and server successfully in 785 ms (202 modules)
+2022-04-15 05:49 +08:00: event - compiled successfully in 107.5s (143 modules)
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:49 +08:00: event - compiled successfully in 401 ms (58 modules)
+2022-04-15 05:49 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:49 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: undefined
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.2s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.5s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.5s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.7s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.6s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.6s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.7s (201 modules)
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.6s (201 modules)
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.7s (201 modules)
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 7.9s (201 modules)
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:50 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 71 ms (202 modules)
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 64 ms (202 modules)
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 78 ms (202 modules)
+2022-04-15 05:50 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:50 +08:00: wait  - compiling...
+2022-04-15 05:50 +08:00: event - compiled client and server successfully in 86 ms (202 modules)
+2022-04-15 05:51 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: event - compiled client and server successfully in 235 ms (213 modules)
+2022-04-15 05:51 +08:00: wait  - compiling /...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: event - compiled client and server successfully in 164 ms (208 modules)
+2022-04-15 05:51 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: event - compiled client and server successfully in 97 ms (213 modules)
+2022-04-15 05:51 +08:00: wait  - compiling /...
+2022-04-15 05:51 +08:00: wait  - compiling...
+2022-04-15 05:51 +08:00: event - compiled client and server successfully in 183 ms (208 modules)
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 3.9s (201 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.2s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.2s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.2s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.3s (202 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.3s (201 modules)
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.3s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.4s (202 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 104s (201 modules)
+2022-04-15 05:52 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 130 ms (214 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 67.7s (202 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 83 ms (208 modules)
+2022-04-15 05:52 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 149 ms (213 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 120 ms (208 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 49 ms (209 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /login...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 3.3s (201 modules)
+2022-04-15 05:52 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 3.9s (213 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 3.9s (202 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4s (208 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4s (201 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4s (201 modules)
+2022-04-15 05:52 +08:00: wait  - compiling...
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.1s (202 modules)
+2022-04-15 05:52 +08:00: event - compiled client and server successfully in 4.1s (201 modules)
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 194 ms (201 modules)
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 211 ms (201 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 204 ms (202 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 219 ms (201 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 223 ms (201 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 212 ms (201 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 228 ms (201 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 236 ms (202 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 262 ms (202 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 50.8s (201 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 60 ms (202 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: wait  - compiling / (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 131 ms (202 modules)
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 218 ms (214 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 56 ms (209 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 43 ms (214 modules)
+2022-04-15 05:53 +08:00: wait  - compiling /...
+2022-04-15 05:53 +08:00: wait  - compiling...
+2022-04-15 05:53 +08:00: event - compiled client and server successfully in 155 ms (208 modules)
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: production
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:53 +08:00: An error occurred, unable to start the server
+2022-04-15 05:53 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: production
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:54 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: undefined
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.2s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.3s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.4s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.4s (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.5s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.6s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.5s (201 modules)
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.6s (201 modules)
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.5s (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 8.6s (201 modules)
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: > Ready on http://localhost:3000
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: wait  - compiling...
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 126 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 131 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 132 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 132 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 136 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 136 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 136 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 136 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 141 ms (201 modules)
+2022-04-15 05:57 +08:00: event - compiled client and server successfully in 138 ms (201 modules)
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: production
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:57 +08:00: An error occurred, unable to start the server
+2022-04-15 05:57 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: production
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 05:58 +08:00: An error occurred, unable to start the server
+2022-04-15 05:58 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: production
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:05 +08:00: An error occurred, unable to start the server
+2022-04-15 06:05 +08:00: Error: Could not find a production build in the '/Users/zhangyulin/Product/nextjs-blog-front/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:139:23)
+    at new Server (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/base-server.js:90:29)
+    at new NextNodeServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next-server.js:86:9)
+    at NextServer.createServer (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:109:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:121:31
+    at async NextServer.prepare (/Users/zhangyulin/Product/nextjs-blog-front/node_modules/next/dist/server/next.js:96:24)
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: undefined
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1649 ms (201 modules)
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1652 ms (201 modules)
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1663 ms (201 modules)
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1675 ms (201 modules)
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1685 ms (201 modules)
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1721 ms (201 modules)
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1618 ms (201 modules)
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1711 ms (201 modules)
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1658 ms (201 modules)
+2022-04-15 06:06 +08:00: wait  - compiling...
+2022-04-15 06:06 +08:00: event - compiled client and server successfully in 1589 ms (201 modules)
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: undefined
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1254 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1243 ms (201 modules)
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1337 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1350 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1301 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1210 ms (201 modules)
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1331 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1299 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1369 ms (201 modules)
+2022-04-15 06:13 +08:00: wait  - compiling...
+2022-04-15 06:13 +08:00: event - compiled client and server successfully in 1200 ms (201 modules)
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 06:13 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: undefined
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1740 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1839 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1872 ms (201 modules)
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1788 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1887 ms (201 modules)
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1718 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1759 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1776 ms (201 modules)
+2022-04-15 07:04 +08:00: wait  - compiling...
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1782 ms (201 modules)
+2022-04-15 07:04 +08:00: event - compiled client and server successfully in 1801 ms (201 modules)
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:04 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:05 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 615 ms (213 modules)
+2022-04-15 07:05 +08:00: wait  - compiling /...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 97 ms (202 modules)
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 545 ms (208 modules)
+2022-04-15 07:05 +08:00: wait  - compiling /login...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 126 ms (202 modules)
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 69 ms (202 modules)
+2022-04-15 07:05 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 92 ms (214 modules)
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 100 ms (202 modules)
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:05 +08:00: wait  - compiling...
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 108 ms (202 modules)
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 114 ms (202 modules)
+2022-04-15 07:05 +08:00: event - compiled client and server successfully in 99 ms (202 modules)
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: undefined
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 766 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 884 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 772 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 921 ms (201 modules)
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 845 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 805 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 799 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 725 ms (201 modules)
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 739 ms (201 modules)
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 679 ms (201 modules)
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 85 ms (202 modules)
+2022-04-15 07:06 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 59 ms (202 modules)
+2022-04-15 07:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 61 ms (202 modules)
+2022-04-15 07:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 91 ms (202 modules)
+2022-04-15 07:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:06 +08:00: wait  - compiling...
+2022-04-15 07:06 +08:00: event - compiled client and server successfully in 22.7s (202 modules)
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: undefined
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.4s (201 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.5s (201 modules)
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.5s (201 modules)
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.4s (201 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.3s (201 modules)
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.5s (201 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.3s (201 modules)
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.3s (201 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.3s (201 modules)
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 7.6s (201 modules)
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 196 ms (213 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 191 ms (208 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling /login...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 1865 ms (202 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 120 ms (202 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 90 ms (202 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 94 ms (202 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 137 ms (202 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 144 ms (202 modules)
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:08 +08:00: wait  - compiling...
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 117 ms (202 modules)
+2022-04-15 07:08 +08:00: event - compiled client and server successfully in 106 ms (202 modules)
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: wait  - compiling...
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 193 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 196 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 221 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 238 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 247 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 272 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 272 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 302 ms (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 30.4s (201 modules)
+2022-04-15 07:09 +08:00: event - compiled client and server successfully in 46.4s (201 modules)
+2022-04-15 07:13 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:13 +08:00: wait  - compiling...
+2022-04-15 07:13 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:13 +08:00: wait  - compiling...
+2022-04-15 07:13 +08:00: event - compiled client and server successfully in 65 ms (202 modules)
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: undefined
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 7s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.8s (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 7s (201 modules)
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 7s (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 6.9s (201 modules)
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: wait  - compiling...
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 190 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 192 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 192 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 198 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 198 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 200 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 202 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 207 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 207 ms (201 modules)
+2022-04-15 07:22 +08:00: event - compiled client and server successfully in 213 ms (201 modules)
+2022-04-15 07:23 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: event - compiled client and server successfully in 92 ms (202 modules)
+2022-04-15 07:23 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: event - compiled client and server successfully in 184 ms (202 modules)
+2022-04-15 07:23 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: event - compiled client and server successfully in 97 ms (202 modules)
+2022-04-15 07:23 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:23 +08:00: wait  - compiling...
+2022-04-15 07:23 +08:00: event - compiled client and server successfully in 103 ms (202 modules)
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: undefined
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.9s (206 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.9s (206 modules)
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.8s (206 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 3.1s (206 modules)
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 3s (206 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 3s (206 modules)
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.7s (206 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.8s (206 modules)
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.8s (206 modules)
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.7s (206 modules)
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: > Ready on http://localhost:3000
+2022-04-15 07:41 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling /login (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2.2s (1158 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 2s (1158 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /login...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 209 ms (207 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 792 ms (1155 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 248 ms (213 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 126 ms (207 modules)
+2022-04-15 07:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 81 ms (218 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 258 ms (213 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 177 ms (1159 modules)
+2022-04-15 07:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 305 ms (1170 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 260 ms (213 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 150 ms (207 modules)
+2022-04-15 07:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 246 ms (218 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 53 ms (214 modules)
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 699 ms (214 modules)
+2022-04-15 07:41 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 121 ms (218 modules)
+2022-04-15 07:41 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 07:41 +08:00: wait  - compiling...
+2022-04-15 07:41 +08:00: event - compiled client and server successfully in 95 ms (214 modules)
+2022-04-15 07:42 +08:00: wait  - compiling / (client and server)...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: event - compiled client and server successfully in 37 ms (219 modules)
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: undefined
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/.babelrc
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: event - compiled client and server successfully in 11.9s (206 modules)
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 07:42 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: undefined
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: info  - Using external babel configuration from /Users/zhangyulin/Product/nextjs-blog-front/babel.config.js
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:05 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:05 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: undefined
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: info  - Disabled SWC as replacement for Babel because of custom Babel configuration "babel.config.js" https://nextjs.org/docs/messages/swc-disabled
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: > Ready on http://localhost:3000
+2022-04-15 10:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:06 +08:00: wait  - compiling...
+2022-04-15 10:06 +08:00: wait  - compiling /_error (client and server)...
+2022-04-15 10:06 +08:00: wait  - compiling...
