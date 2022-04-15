@@ -15,7 +15,6 @@ echo " ===== 开始打包 ====="
 yarn build;
 
 echo " ===== PM2开始重启 =====";
-pm2 kill all
-pm2 start yarn --watch --name "next-js" --interpreter bash -- start
+yarn pm2
 #pm2 reload zuanshi-pc-test;
 

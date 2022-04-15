@@ -6,7 +6,8 @@
     "dev": "cross-env NODE_ENV=development next dev",
     "build": "cross-env NODE_ENV=production next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "pm2": "pm2 start npm --name \"next\" -- start"
   },
   "dependencies": {
     "antd": "^4.19.5",
