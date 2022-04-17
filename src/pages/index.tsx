@@ -123,7 +123,7 @@ const Home: NextPage = () => {
                 <div>
                     <span className={cls.title}>找工作进度：</span>
                     <p className={cls.des}>
-                        今年真的难，没啥面试机会，周一面试字节外包，好运🍀～
+                        今年真的难啊，当年不爱学习寻思学历没啥用读了个专科，现在面试机会都没有，原打算找个正式岗位，今年还赶上裁员潮，周一面试字节外包，好运🍀～
                     </p>
                 </div>
                 <div>
