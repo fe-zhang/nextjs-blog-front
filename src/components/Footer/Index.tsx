@@ -3,13 +3,10 @@ import {useRouter} from 'next/router';
 import Link from 'next/link';
 
 // style
-import cls from './Footer.module.sass';
+import cls from './Index.module.sass';
 
 const Footer: React.FC = () => {
     const router = useRouter();
-    if (['/admin', '/login'].includes(router.pathname)) {
-        return null;
-    }
     return (
         <footer className={cls.footer}>
             <div className={cls.container}>

@@ -10,8 +10,11 @@
     "pm2": "pm2 start npm --name \"next\" -- start"
   },
   "dependencies": {
+    "@tanem/react-nprogress": "^5.0.0",
     "antd": "^4.19.5",
+    "axios": "^0.26.1",
     "cross-env": "^7.0.3",
+    "dayjs": "^1.11.1",
     "lodash.debounce": "^4.0.8",
     "mobx": "^6.5.0",
     "mobx-react": "^7.3.0",
@@ -20,7 +23,8 @@
     "next-themes": "^0.1.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "react-markdown-editor-lite": "^1.3.2"
   },
   "devDependencies": {
     "@types/lodash.debounce": "^4.0.6",

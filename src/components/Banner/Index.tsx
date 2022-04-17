@@ -1,6 +1,11 @@
-import React, {useCallback, useEffect, useRef, useState} from 'react';
-import {IBanner} from '../store/HomeStore';
-import useViewport from '../hooks/useViewport';
+import React, {useCallback, useEffect, useRef} from 'react';
+import {observer} from "mobx-react";
+
+// hooks
+import useViewport from '../../hooks/useViewport';
+
+// store
+import {IBanner} from '../../store/HomeStore';
 
 const Banner: React.FC<IBanner> = props => {
     const canvasRef = useRef(null);
@@ -41,4 +46,4 @@ const Banner: React.FC<IBanner> = props => {
     );
 }
 
-export default Banner;
+export default observer(Banner);

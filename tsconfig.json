@@ -1,20 +1,31 @@
 {
-  "compilerOptions": {
-    "target": "es5",
+  "compilerOptions": { /* compilerOptions 编译器的选项 */
+    "target": "es5", /* 指定编译成的ES版本 */
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
+    "noEmit": true, /* 不生成编译后的js文件 默认为false */
     "esModuleInterop": true,
-    "module": "esnext",
+    "module": "esnext",  /* 指定要应用的模块化标准 */
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "incremental": true
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {  /* 别名 */
+        "@*": ["src/*"],
+        "@components/*": ["src/components/*"],
+        "@adminComponents/*": ["src/components/admin/*"],
+        "@style/*": ["src/styles/*"],
+        "@models/*": ["src/models/*"],
+        "@store/*": ["src/store/*"],
+        "@hooks/*": ["src/hooks/*"],
+        "@constants/*": ["src/constants/*"]
+    }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"]
+  "include": ["next-env.d.ts", "./src/**/*"], /* 指定哪些ts文件须要编译 **代表任意目录 \*代表任意文件 */
+  "exclude": ["node_modules"], /* 指定哪些ts文件不须要编译 默认值 */
 }
