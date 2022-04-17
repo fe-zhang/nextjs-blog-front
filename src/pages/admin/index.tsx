@@ -57,7 +57,7 @@ const Home: NextPage = () => {
                         minHeight: 280,
                     }}
                 >
-                    <Config />
+
                 </Content>
             </Layout>
         </Layout>
