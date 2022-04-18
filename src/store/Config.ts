@@ -3,20 +3,26 @@
  */
 
 import {flow} from 'mobx';
-import axios from 'axios';
+import request from '@untils/request';
 
 export interface IConf {
-    userName: string,
+    userName?: string,
     password: string,
     birthday?: number,
-    userId?: string,
+    userId: string,
     email?: string
 }
 
 class Config {
-
     fetchCreate = flow<void, [conf: IConf]>(function* _(this: Config, conf) {
-        yield Config.create(conf)
+        try {
+            yield Config.create(conf);
+        }
+        catch (e) {
+            if (e instanceof Error) {
+                throw new Error(e.message);
+            }
+        }
     }).bind(this);
 
     constructor() {
@@ -24,8 +30,8 @@ class Config {
     }
 
     static create = (conf: IConf): Promise<void> => {
-        return axios
-            .post('/api/user/add', conf);
+        return request
+            .post('/api/user/create', conf);
     }
 }
 

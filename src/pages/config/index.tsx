@@ -4,6 +4,7 @@
 
 import {NextPage} from 'next';
 import {observer} from 'mobx-react';
+import Router from 'next/router';
 
 // store
 import store, {IConf} from '@store/Config';
@@ -12,7 +13,8 @@ import store, {IConf} from '@store/Config';
 import cls from './index.module.sass';
 
 // components
-import {Form, Input, Button} from 'antd';
+import {Form, Input, Button, Modal} from 'antd';
+import {useCallback} from 'react';
 
 const formItemLayout = {
     labelCol: {
@@ -33,12 +35,30 @@ const Index: NextPage = observer(() => {
         fetchCreate
     } = store;
 
-    const onFinish = (conf: IConf) => {
+    const successOnOk = useCallback(() => {
+        console.log(Router)
+        Router.push('/admin');
+    }, []);
+
+    const onFinish = useCallback((conf: IConf) => {
         fetchCreate(conf)
-            .then(() => {
-                alert(111)
+            .then((res) => {
+                Modal.success({
+                    title: '成功',
+                    content: '创建成功，点击确认跳转到管理页面',
+                    okText: '确认',
+                    onOk: successOnOk
+                })
+
+            })
+            .catch(e => {
+                Modal.error({
+                    title: '失败',
+                    content: e.message,
+                    okText: '确定'
+                });
             });
-    };
+    }, [fetchCreate]);
 
     return (
         <div className={cls.config}>

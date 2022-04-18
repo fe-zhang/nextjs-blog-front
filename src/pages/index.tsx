@@ -18,6 +18,10 @@ const end = [
         status: 1
     },
     {
+        text: '账号配置',
+        status: 1
+    },
+    {
         text: '登录功能',
         status: 0
     },
@@ -62,6 +66,10 @@ const front = [
     },
     {
         text: '黑白主题',
+        status: 1
+    },
+    {
+        text: '账号配置',
         status: 1
     },
     {
@@ -110,7 +118,7 @@ const front = [
     },
     {
         text: '二次封装axios',
-        status: 0
+        status: 1
     }
 ]
 
@@ -123,7 +131,7 @@ const Home: NextPage = () => {
                 <div>
                     <span className={cls.title}>找工作进度：</span>
                     <p className={cls.des}>
-                        今年真的难啊，当年不爱学习寻思学历没啥用读了个专科，现在面试机会都没有，原打算找个正式岗位，今年还赶上裁员潮，周一面试字节外包，好运🍀～
+                        明天会继续面试，好运会来到🍀～
                     </p>
                 </div>
                 <div>

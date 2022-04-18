@@ -14,10 +14,7 @@ const Footer: React.FC = () => {
                     © 2022 Powered by <Link href='/'>Lin</Link>
                 </span>
                 <span className={cls.item}>
-                    <Link href='/'>京ICP备11111111号-1</Link>
-                </span>
-                <span className={cls.item}>
-                    <Link href='/login'>登录</Link>
+                    <a target="_blank" href='https://beian.miit.gov.cn/' rel="noreferrer">京ICP备2021026354号-1</a>
                 </span>
             </div>
         </footer>

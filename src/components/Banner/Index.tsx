@@ -26,6 +26,7 @@ const Banner: React.FC<IBanner> = props => {
     }, [src])
 
     useEffect(() => {
+        // 还没想好用不用个canvas效果，后面再改
         if (!canvasRef.current) return;
 
         const canvas: HTMLCanvasElement = canvasRef.current;
@@ -36,7 +37,7 @@ const Banner: React.FC<IBanner> = props => {
             return;
         }
         drawImg(ctx)
-    })
+    }, [drawImg, viewport.width])
 
 
     return (
