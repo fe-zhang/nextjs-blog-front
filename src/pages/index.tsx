@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 import {useState} from 'react';
 
 // store
-import HomeStore from '../store/HomeStore';
+import HomeStore from '@store/homeStore';
 
 // components
 import Banner from '@components/Banner/Index';
@@ -22,8 +22,8 @@ const end = [
         status: 1
     },
     {
-        text: '登录功能',
-        status: 0
+        text: '登录接口',
+        status: 1
     },
     {
         text: '文章接口',
@@ -73,8 +73,12 @@ const front = [
         status: 1
     },
     {
-        text: '登录页 + 权限控制',
-        status: 0
+        text: '登录页 + 权限获取',
+        status: 1
+    },
+    {
+        text: '二次封装axios',
+        status: 1
     },
     {
         text: '后台管理 - 基本配置',
@@ -115,10 +119,6 @@ const front = [
     {
         text: '接入微信管理类似说说功能',
         status: 0
-    },
-    {
-        text: '二次封装axios',
-        status: 1
     }
 ]
 

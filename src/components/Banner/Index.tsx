@@ -5,7 +5,7 @@ import {observer} from "mobx-react";
 import useViewport from '../../hooks/useViewport';
 
 // store
-import {IBanner} from '../../store/HomeStore';
+import {IBanner} from '@store/homeStore';
 
 const Banner: React.FC<IBanner> = props => {
     const canvasRef = useRef(null);

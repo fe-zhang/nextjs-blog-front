@@ -9,7 +9,7 @@ import Footer from '@components/Footer/Index';
 import ProgressBar from '@components/ProgressBar/Index';
 
 // style
-import '../styles/globals.less';
+import '@style/globals.css';
 
 // 以下页面没有头尾，没有暗黑模式，个人用后台不想搞太花哨，能用就行
 const confAndAdminPages = ['/admin', '/login', '/config'];
@@ -72,4 +72,4 @@ function MyApp({ Component, pageProps }: AppProps) {
     )
 }
 
-export default MyApp
+export default MyApp;

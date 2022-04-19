@@ -20,7 +20,7 @@ request.interceptors.response.use((res) => {
         throw new Error(message);
         return;
     }
-    return res;
+    return res.data;
 }, (err) => {
     return Promise.reject(err);
 });

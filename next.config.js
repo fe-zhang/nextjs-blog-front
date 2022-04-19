@@ -23,7 +23,8 @@ const nextConfig = {
     rewrites: async () => rewritesConfig,
     sassOptions: {
         includePaths: [path.join(__dirname, 'styles')]
-    }
+    },
+    productionBrowserSourceMaps: false
 }
 
 module.exports = withPlugins([[pluginAntdLess]], nextConfig);

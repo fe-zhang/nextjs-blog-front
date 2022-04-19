@@ -1,13 +1,34 @@
+/**
+ * 管理页面
+ */
+
 import type { NextPage } from 'next';
-import { Layout, Menu } from 'antd';
-const { Header, Sider, Content } = Layout;
+import {useEffect, useState} from 'react';
+import Router from 'next/router';
+import {observer} from 'mobx-react';
+
+// components
+import {Layout, Menu, Modal} from 'antd';
+
+// store
+import GlobalStore from '@store/globalStore';
+
+// style
 import cls from './index.module.sass';
-import React, {useState} from "react";
 
-import {AiOutlineMenuFold, AiOutlineMenuUnfold} from "react-icons/ai";
+// svg
+import {AiOutlineMenuFold, AiOutlineMenuUnfold} from 'react-icons/ai';
 
-const Home: NextPage = () => {
+const { Header, Sider, Content } = Layout;
+
+const Admin: NextPage = observer(() => {
     const [collapsed, setCollapsed] = useState(false);
+
+    useEffect(() => {
+        if (!GlobalStore.userName) {
+            Router.push('/login');
+        }
+    }, []);
 
     const toggle = () => {
         setCollapsed(!collapsed);
@@ -18,27 +39,27 @@ const Home: NextPage = () => {
             <Sider className={cls.menu} trigger={null} collapsible collapsed={collapsed}>
                 <div className="logo" />
                 <Menu theme="dark" mode="inline" defaultSelectedKeys={['1']}>
-                    <Menu.Item key="1">
-                        用户资料填写
-                    </Menu.Item>
                     {/*<Menu.Item key="1">*/}
-                    {/*    页面配置*/}
+                    {/*    用户资料填写*/}
                     {/*</Menu.Item>*/}
-                    {/*<Menu.Item key="2">*/}
-                    {/*    文章管理*/}
-                    {/*</Menu.Item>*/}
-                    {/*<Menu.Item key="3">*/}
-                    {/*    分类、标签管理*/}
-                    {/*</Menu.Item>*/}
-                    {/*<Menu.Item key="4">*/}
-                    {/*    相册管理*/}
-                    {/*</Menu.Item>*/}
-                    {/*<Menu.Item key="5">*/}
-                    {/*    评论管理*/}
-                    {/*</Menu.Item>*/}
-                    {/*<Menu.Item key="6">*/}
-                    {/*    用户管理*/}
-                    {/*</Menu.Item>*/}
+                    <Menu.Item key="1">
+                        页面配置
+                    </Menu.Item>
+                    <Menu.Item key="2">
+                        文章管理
+                    </Menu.Item>
+                    <Menu.Item key="3">
+                        分类、标签管理
+                    </Menu.Item>
+                    <Menu.Item key="4">
+                        相册管理
+                    </Menu.Item>
+                    <Menu.Item key="5">
+                        评论管理
+                    </Menu.Item>
+                    <Menu.Item key="6">
+                        用户管理
+                    </Menu.Item>
                 </Menu>
             </Sider>
             <Layout className="site-layout">
@@ -62,6 +83,6 @@ const Home: NextPage = () => {
             </Layout>
         </Layout>
     )
-}
+});
 
-export default Home
+export default Admin;

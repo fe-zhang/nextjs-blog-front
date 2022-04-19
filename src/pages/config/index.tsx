@@ -7,7 +7,7 @@ import {observer} from 'mobx-react';
 import Router from 'next/router';
 
 // store
-import store, {IConf} from '@store/Config';
+import store, {IConf} from '@store/configStore';
 
 // style
 import cls from './index.module.sass';
@@ -30,13 +30,12 @@ const formSubmitLayout = {
     wrapperCol: { span: 8, offset: 4 },
 };
 
-const Index: NextPage = observer(() => {
+const Config: NextPage = observer(() => {
     const {
         fetchCreate
     } = store;
 
     const successOnOk = useCallback(() => {
-        console.log(Router)
         Router.push('/admin');
     }, []);
 
@@ -71,7 +70,7 @@ const Index: NextPage = observer(() => {
                 </div>
                 <Form className={cls.form} onFinish={onFinish}>
                     <Form.Item
-                        name="userId"
+                        name="username"
                         label="用户名"
                         {...formItemLayout}
                         rules={[
@@ -108,4 +107,4 @@ const Index: NextPage = observer(() => {
     );
 })
 
-export default Index;
+export default Config;

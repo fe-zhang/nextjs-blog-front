@@ -4,6 +4,14 @@
 
 import type { NextPage } from 'next';
 import Link from 'next/link';
+import {observer} from 'mobx-react';
+import Router from 'next/router';
+import {useEffect} from 'react';
+import {Modal} from 'antd';
+
+// store
+import LoginStore from '@store/loginStore';
+import GlobalStore from '@store/globalStore';
 
 // components
 import {Input, Button, Checkbox, Form} from 'antd';
@@ -11,13 +19,24 @@ import {Input, Button, Checkbox, Form} from 'antd';
 // style
 import cls from './index.module.sass';
 
-const Login: NextPage = () => {
-    const onFinish = (values: any) => {
-        console.log('Success:', values);
-    };
+const Login: NextPage = observer(() => {
+    useEffect(() => {
+        if (GlobalStore.userName) {
+            Router.push('/admin');
+        }
+    }, [GlobalStore.userName]);
 
-    const onFinishFailed = (errorInfo: any) => {
-        console.log('Failed:', errorInfo);
+    const onFinish = (values: any) => {
+        LoginStore.fetchLogin(values)
+            .then(() => {
+                GlobalStore.fetchPermission().catch(() => {});
+            })
+            .catch(e => {
+                Modal.error({
+                    content: e.message,
+                    okText: '确定'
+                })
+            })
     };
 
     return (
@@ -26,7 +45,6 @@ const Login: NextPage = () => {
                 <div className={cls.title}>叶落知秋</div>
                 <Form
                     onFinish={onFinish}
-                    onFinishFailed={onFinishFailed}
                 >
                     <Form.Item
                         name="username"
@@ -53,6 +71,6 @@ const Login: NextPage = () => {
             </div>
         </div>
     )
-}
+});
 
 export default Login;

@@ -6,17 +6,17 @@ import {flow} from 'mobx';
 import request from '@untils/request';
 
 export interface IConf {
-    userName?: string,
+    username: string,
     password: string,
     birthday?: number,
-    userId: string,
+    name?: string,
     email?: string
 }
 
-class Config {
-    fetchCreate = flow<void, [conf: IConf]>(function* _(this: Config, conf) {
+class ConfigStore {
+    fetchCreate = flow<void, [conf: IConf]>(function* _(this: ConfigStore, conf) {
         try {
-            yield Config.create(conf);
+            yield ConfigStore.create(conf);
         }
         catch (e) {
             if (e instanceof Error) {
@@ -35,4 +35,4 @@ class Config {
     }
 }
 
-export default new Config();
+export default new ConfigStore();
