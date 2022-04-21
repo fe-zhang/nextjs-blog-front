@@ -130,7 +130,7 @@ const front = [
     }
 ]
 
-const Home: NextPage = (props) => {
+const Home: NextPage<any> = (props) => {
     const {
         seo
     } = props;

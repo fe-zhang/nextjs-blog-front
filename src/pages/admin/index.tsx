@@ -3,7 +3,7 @@
  */
 
 import type { NextPage } from 'next';
-import {useCallback, useEffect, useMemo, useState} from 'react';
+import {SetStateAction, useCallback, useEffect, useMemo, useState} from 'react';
 import Router from 'next/router';
 import {observer} from 'mobx-react';
 
@@ -21,7 +21,7 @@ import {AiOutlineMenuFold, AiOutlineMenuUnfold} from 'react-icons/ai';
 import Config from '@adminComponents/Config';
 import Article from '@adminComponents/Article';
 
-const { Header, Sider, Content } = Layout;
+const {Header, Sider, Content} = Layout;
 
 const path = [
     {
@@ -47,9 +47,9 @@ const Admin: NextPage = () => {
     const pages = useMemo(() => {
         switch (cur) {
             case 'conf':
-                return <Config />;
+                return <Config/>;
             case 'category':
-                return <Article />;
+                return <Article/>;
             default:
                 return null
         }
@@ -59,7 +59,7 @@ const Admin: NextPage = () => {
         setCollapsed(!collapsed);
     };
 
-    const setMenu = useCallback((e) => {
+    const setMenu = useCallback((e: { key: SetStateAction<string>; }) => {
         setCur(e.key)
     }, []);
 
@@ -67,6 +67,7 @@ const Admin: NextPage = () => {
         <Layout className={cls.layout}>
             <Sider className={cls.menu} trigger={null} collapsible collapsed={collapsed}>
                 <div className="logo" />
+                {/*@ts-ignore*/}
                 <Menu theme="dark" mode="inline" defaultSelectedKeys={cur} onSelect={setMenu}>
                     {
                         path.map(item => {

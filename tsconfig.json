@@ -26,6 +26,6 @@
         "@constants/*": ["src/constants/*"]
     }
   },
-  "include": ["next-env.d.ts", "./src/*", "./src/**/index"], /* 指定哪些ts文件须要编译 **代表任意目录 \*代表任意文件 */
+  "include": ["next-env.d.ts", "./src/**/*", "./src/**/**/*"], /* 指定哪些ts文件须要编译 **代表任意目录 \*代表任意文件 */
   "exclude": ["node_modules"], /* 指定哪些ts文件不须要编译 默认值 */
 }
