@@ -178,16 +178,16 @@ const Home: NextPage<any> = (props) => {
     )
 }
 
-export async function getServerSideProps() {
-    try {
-        const data = await request.get(`${url}/api/pages/home`);
-        return {
-            props: data
-        }
-    }
-    catch (e) {
-        return {}
-    }
-}
+// export async function getServerSideProps() {
+//     try {
+//         const data = await request.get(`${url}/api/pages/home`);
+//         return {
+//             props: data
+//         }
+//     }
+//     catch (e) {
+//         return {}
+//     }
+// }
 
 export default Home;
