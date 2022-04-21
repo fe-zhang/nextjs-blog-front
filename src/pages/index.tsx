@@ -146,7 +146,7 @@ const Home: NextPage = (props) => {
                 <div>
                     <span className={cls.title}>找工作进度：</span>
                     <p className={cls.des}>
-                        明天会继续面试，好运会来到🍀～
+                        没有面试了，面了5、6家，只有两个待定，一个英语不达标，一个薪资可能有点超预算，好运会来到🍀～
                     </p>
                 </div>
                 <div>
