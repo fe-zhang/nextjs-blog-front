@@ -17,27 +17,30 @@ const Banner: React.FC<IBanner> = props => {
         desc
     } = props;
 
-    const drawImg = useCallback((ctx: CanvasRenderingContext2D) => {
+    const loadImg = useCallback((url: string) => {
         const img = new Image();
-        img.onload = () => {
-            ctx.drawImage(img, 0, 0, viewport.width, 256);
-        }
-        img.src = src;
-    }, [src])
+        img.src = url;
+        return new Promise<HTMLImageElement>((resolve, reject) => {
+            img.onload = () => {
+                resolve(img);
+            }
+            img.onerror = () => {
+                reject();
+            }
+        });
+    }, []);
 
     useEffect(() => {
-        // 还没想好用不用个canvas效果，后面再改
         if (!canvasRef.current) return;
-
         const canvas: HTMLCanvasElement = canvasRef.current;
         canvas.width = viewport.width;
         canvas.height = 256;
         const ctx = canvas.getContext('2d');
-        if (!ctx) {
-            return;
-        }
-        drawImg(ctx)
-    }, [drawImg, viewport.width])
+        loadImg(src)
+            .then(res => {
+                ctx!.drawImage(res, 0, 0, viewport.width, 256);
+            })
+    }, [loadImg, src, viewport.width])
 
 
     return (

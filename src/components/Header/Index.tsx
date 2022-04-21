@@ -24,12 +24,12 @@ const Header: React.FC = () => {
 
     return (
         <header className={cls.header}>
-            <div className={cls.container}>
-                <div className={cls.logo}>
+            {/*<div className={cls.container}>*/}
+                <h1 className={cls.logo}>
                     <Link href='/'>
                         叶落知秋
                     </Link>
-                </div>
+                </h1>
                 <div className={cls.main}>
                     {/*<ul className={cls.navs}>*/}
                     {/*    {*/}
@@ -51,7 +51,7 @@ const Header: React.FC = () => {
                     </div>
                 </div>
 
-            </div>
+            {/*</div>*/}
 
         </header>
     );

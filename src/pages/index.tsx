@@ -5,7 +5,15 @@ import {useState} from 'react';
 import HomeStore from '@store/homeStore';
 
 // components
-import Banner from '@components/Banner/Index';
+import Head from '@components/Head';
+// import Banner from '@components/Banner/Index';
+import AsideBar from '@components/Asidebar';
+
+// until
+import request from '@untils/request';
+import {url} from '../config';
+
+// style
 import cls from './index.module.sass';
 
 const end = [
@@ -122,12 +130,19 @@ const front = [
     }
 ]
 
-const Home: NextPage = () => {
+const Home: NextPage = (props) => {
+    const {
+        seo
+    } = props;
     const [store] = useState(HomeStore);
     return (
-        <div>
-            <Banner {...store.banner} />
-            <div className={cls.wrap}>
+        <>
+            <Head {...seo} />
+            {/*<Banner {...store.banner} />*/}
+            <div className={cls.content}>
+                <AsideBar />
+            </div>
+            <div className={cls.content}>
                 <div>
                     <span className={cls.title}>找工作进度：</span>
                     <p className={cls.des}>
@@ -159,8 +174,20 @@ const Home: NextPage = () => {
                     }
                 </div>
             </div>
-        </div>
+        </>
     )
 }
 
-export default Home
+export async function getServerSideProps() {
+    try {
+        const data = await request.get(`${url}/api/pages/home`);
+        return {
+            props: data
+        }
+    }
+    catch (e) {
+        return {}
+    }
+}
+
+export default Home;

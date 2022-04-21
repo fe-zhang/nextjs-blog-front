@@ -3,7 +3,7 @@
  */
 
 import type { NextPage } from 'next';
-import {useEffect, useState} from 'react';
+import {useCallback, useEffect, useMemo, useState} from 'react';
 import Router from 'next/router';
 import {observer} from 'mobx-react';
 
@@ -18,11 +18,25 @@ import cls from './index.module.sass';
 
 // svg
 import {AiOutlineMenuFold, AiOutlineMenuUnfold} from 'react-icons/ai';
+import Config from '@adminComponents/Config';
+import Article from '@adminComponents/Article';
 
 const { Header, Sider, Content } = Layout;
 
-const Admin: NextPage = observer(() => {
+const path = [
+    {
+        name: '页面配置',
+        key: 'conf'
+    },
+    {
+        name: '分类管理',
+        key: 'category'
+    }
+]
+
+const Admin: NextPage = () => {
     const [collapsed, setCollapsed] = useState(false);
+    const [cur, setCur] = useState('conf');
 
     useEffect(() => {
         if (!GlobalStore.userName) {
@@ -30,36 +44,37 @@ const Admin: NextPage = observer(() => {
         }
     }, []);
 
+    const pages = useMemo(() => {
+        switch (cur) {
+            case 'conf':
+                return <Config />;
+            case 'category':
+                return <Article />;
+            default:
+                return null
+        }
+    }, [cur])
+
     const toggle = () => {
         setCollapsed(!collapsed);
     };
+
+    const setMenu = useCallback((e) => {
+        setCur(e.key)
+    }, []);
 
     return (
         <Layout className={cls.layout}>
             <Sider className={cls.menu} trigger={null} collapsible collapsed={collapsed}>
                 <div className="logo" />
-                <Menu theme="dark" mode="inline" defaultSelectedKeys={['1']}>
-                    {/*<Menu.Item key="1">*/}
-                    {/*    用户资料填写*/}
-                    {/*</Menu.Item>*/}
-                    <Menu.Item key="1">
-                        页面配置
-                    </Menu.Item>
-                    <Menu.Item key="2">
-                        文章管理
-                    </Menu.Item>
-                    <Menu.Item key="3">
-                        分类、标签管理
-                    </Menu.Item>
-                    <Menu.Item key="4">
-                        相册管理
-                    </Menu.Item>
-                    <Menu.Item key="5">
-                        评论管理
-                    </Menu.Item>
-                    <Menu.Item key="6">
-                        用户管理
-                    </Menu.Item>
+                <Menu theme="dark" mode="inline" defaultSelectedKeys={cur} onSelect={setMenu}>
+                    {
+                        path.map(item => {
+                            return (
+                                <Menu.Item key={item.key}>{item.name}</Menu.Item>
+                            );
+                        })
+                    }
                 </Menu>
             </Sider>
             <Layout className="site-layout">
@@ -78,11 +93,13 @@ const Admin: NextPage = observer(() => {
                         minHeight: 280,
                     }}
                 >
-
+                    {
+                        pages
+                    }
                 </Content>
             </Layout>
         </Layout>
     )
-});
+};
 
 export default Admin;
