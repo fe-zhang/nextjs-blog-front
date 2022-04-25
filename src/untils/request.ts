@@ -1,7 +1,10 @@
 import axios from 'axios';
+import {
+    apiUrl
+} from '@config';
 
 const request = axios.create({
-    baseURL: '',
+    baseURL: apiUrl,
     timeout: 100000,
     headers: {}
 });

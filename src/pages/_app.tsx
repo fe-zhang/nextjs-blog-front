@@ -1,12 +1,12 @@
-import {useEffect, useMemo, useState} from 'react';
+import React, {useEffect, useMemo, useState} from 'react';
 import type { AppProps } from 'next/app';
 import { ThemeProvider } from 'next-themes';
 import {useRouter} from 'next/router';
 
 // components
-import Header from '@components/Header/Index';
-import Footer from '@components/Footer/Index';
-import ProgressBar from '@components/ProgressBar/Index';
+import Header from '@components/Header';
+import Footer from '@components/Footer';
+import ProgressBar from '@components/ProgressBar';
 
 // style
 import '@style/globals.css';
@@ -14,8 +14,9 @@ import '@style/globals.css';
 // 以下页面没有头尾，没有暗黑模式，个人用后台不想搞太花哨，能用就行
 const confAndAdminPages = ['/admin', '/login', '/config'];
 
-function MyApp({ Component, pageProps }: AppProps) {
+const App: React.FC<AppProps> = (props) => {
     const router = useRouter();
+    const {Component, pageProps} = props;
     const [isLoading, setLoading] = useState(false);
 
     useEffect(() => {
@@ -50,9 +51,9 @@ function MyApp({ Component, pageProps }: AppProps) {
         return (
             <ThemeProvider>
                 <ProgressBar isAnimating={isLoading} key={router.pathname}></ProgressBar>
-                <Header />
+                <Header logo={pageProps.logo} />
                 <Component {...pageProps} />
-                <Footer />
+                <Footer icp={pageProps.icp} />
             </ThemeProvider>
         );
     }, [Component, isLoading, pageProps, router.pathname])
@@ -72,4 +73,4 @@ function MyApp({ Component, pageProps }: AppProps) {
     )
 }
 
-export default MyApp;
+export default App;

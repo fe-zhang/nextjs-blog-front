@@ -2,9 +2,8 @@
  * 管理页面
  */
 
-import type { NextPage } from 'next';
-import {SetStateAction, useCallback, useEffect, useMemo, useState} from 'react';
-import Router from 'next/router';
+import React, {SetStateAction, useCallback, useEffect, useMemo, useState} from 'react';
+import Router, {useRouter} from 'next/router';
 import {observer} from 'mobx-react';
 
 // components
@@ -12,6 +11,7 @@ import {Layout, Menu, Modal} from 'antd';
 
 // store
 import GlobalStore from '@store/globalStore';
+import AdminStore from '@store/adminStore';
 
 // style
 import cls from './index.module.sass';
@@ -25,35 +25,41 @@ const {Header, Sider, Content} = Layout;
 
 const path = [
     {
-        name: '页面配置',
-        key: 'conf'
+        name: '控制台',
+        key: 'console'
+    },
+    {
+        name: '新增文章',
+        key: 'article'
     },
     {
         name: '分类管理',
         key: 'category'
+    },
+    {
+        name: '标签管理',
+        key: 'tags'
+    },
+    {
+        name: '友链管理',
+        key: 'links'
+    },
+    {
+        name: '网站配置',
+        key: 'conf'
     }
 ]
 
-const Admin: NextPage = () => {
+const Admin: React.FC = observer(() => {
+    const router = useRouter();
     const [collapsed, setCollapsed] = useState(false);
-    const [cur, setCur] = useState('conf');
+    const [cur, setCur] = useState('console');
 
     useEffect(() => {
         if (!GlobalStore.userName) {
             Router.push('/login');
         }
     }, []);
-
-    const pages = useMemo(() => {
-        switch (cur) {
-            case 'conf':
-                return <Config/>;
-            case 'category':
-                return <Article/>;
-            default:
-                return null
-        }
-    }, [cur])
 
     const toggle = () => {
         setCollapsed(!collapsed);
@@ -62,6 +68,15 @@ const Admin: NextPage = () => {
     const setMenu = useCallback((e: { key: SetStateAction<string>; }) => {
         setCur(e.key)
     }, []);
+
+    const component = useMemo(() => {
+        switch (cur) {
+            case 'conf':
+                return <Config store={AdminStore.config} />
+            case 'article':
+                return <Article />
+        }
+    }, [cur, AdminStore]);
 
     return (
         <Layout className={cls.layout}>
@@ -78,7 +93,7 @@ const Admin: NextPage = () => {
                     }
                 </Menu>
             </Sider>
-            <Layout className="site-layout">
+            <Layout className={cls.layout}>
                 <Header className={cls.header} style={{ padding: 0 }}>
                     <div className={cls.menuBtn} onClick={toggle}>
                         {
@@ -87,20 +102,13 @@ const Admin: NextPage = () => {
                     </div>
                 </Header>
                 <Content
-                    className="site-layout-background"
-                    style={{
-                        margin: '24px 16px',
-                        padding: 24,
-                        minHeight: 280,
-                    }}
+                    className={cls.content}
                 >
-                    {
-                        pages
-                    }
+                    {component}
                 </Content>
             </Layout>
         </Layout>
     )
-};
+})
 
 export default Admin;

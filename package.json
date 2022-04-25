@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development next dev",
     "build": "cross-env NODE_ENV=production next build",
-    "start": "next start",
+    "start": "cross-env NODE_ENV=production next start",
     "lint": "next lint",
-    "pm2": "pm2 start npm --name \"next\" -- start"
+    "prod": "pm2 start npm --name next -- start",
+    "stop": "pm2 stop blog-serve && pm2 delete next"
   },
   "dependencies": {
     "@tanem/react-nprogress": "^5.0.0",

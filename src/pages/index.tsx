@@ -8,6 +8,8 @@ import HomeStore from '@store/homeStore';
 import Head from '@components/Head';
 // import Banner from '@components/Banner/Index';
 import AsideBar from '@components/Asidebar';
+import Header from '@components/Header';
+import Footer from '@components/Footer';
 
 // until
 import request from '@untils/request';
@@ -178,16 +180,16 @@ const Home: NextPage<any> = (props) => {
     )
 }
 
-// export async function getServerSideProps() {
-//     try {
-//         const data = await request.get(`${url}/api/pages/home`);
-//         return {
-//             props: data
-//         }
-//     }
-//     catch (e) {
-//         return {}
-//     }
-// }
+export async function getServerSideProps() {
+    try {
+        const data = await request.get(`${url}/api/pages/home`);
+        return {
+            props: data
+        }
+    }
+    catch (e) {
+        return {}
+    }
+}
 
 export default Home;

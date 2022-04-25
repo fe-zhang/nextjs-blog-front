@@ -1,6 +1,6 @@
 import React, {useCallback, useEffect, useRef} from 'react';
 
-import cls from './Index.module.sass';
+import cls from './index.module.sass';
 
 const AsideBar: React.FC = () => {
 
