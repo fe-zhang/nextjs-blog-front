@@ -67,7 +67,7 @@ const Login: NextPage = observer(() => {
                         </Button>
                     </Form.Item>
                 </Form>
-                <Link href='/'>返回首页</Link>
+                <a href='/'>返回首页</a>
             </div>
         </div>
     )

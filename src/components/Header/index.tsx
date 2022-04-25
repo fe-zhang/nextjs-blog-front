@@ -26,9 +26,9 @@ const Header: React.FC<IProps> = (props) => {
         <header className={cls.header}>
             {/*<div className={cls.container}>*/}
                 <h1 className={cls.logo}>
-                    <Link href='/'>
+                    <a href='/'>
                         {logo}
-                    </Link>
+                    </a>
                 </h1>
                 <div className={cls.main}>
                     {/*<ul className={cls.navs}>*/}

@@ -13,7 +13,6 @@ import Footer from '@components/Footer';
 
 // until
 import request from '@untils/request';
-import {url} from '../config';
 
 // style
 import cls from './index.module.sass';
@@ -136,7 +135,6 @@ const Home: NextPage<any> = (props) => {
     const {
         seo
     } = props;
-    const [store] = useState(HomeStore);
     return (
         <>
             <Head {...seo} />
@@ -178,18 +176,6 @@ const Home: NextPage<any> = (props) => {
             </div>
         </>
     )
-}
-
-export async function getServerSideProps() {
-    try {
-        const data = await request.get(`${url}/api/pages/home`);
-        return {
-            props: data
-        }
-    }
-    catch (e) {
-        return {}
-    }
 }
 
 export default Home;
