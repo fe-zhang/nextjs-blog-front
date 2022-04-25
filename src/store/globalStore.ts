@@ -28,7 +28,7 @@ class GlobalStore {
     }
 
     static permission = (): Promise<void> => {
-        return request.get('/api/user/permission');
+        return request.get('/user/permission');
     }
 }
 

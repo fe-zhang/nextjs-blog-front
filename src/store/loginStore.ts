@@ -29,7 +29,7 @@ class LoginStore {
 
     static login = (conf: IConf): Promise<void> => {
         return request
-            .post('/api/user/login', conf);
+            .post('/user/login', conf);
     }
 }
 

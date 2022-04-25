@@ -10,6 +10,7 @@ import ProgressBar from '@components/ProgressBar';
 
 // style
 import '@style/globals.css';
+import request from '@untils/request';
 
 // 以下页面没有头尾，没有暗黑模式，个人用后台不想搞太花哨，能用就行
 const confAndAdminPages = ['/admin', '/login', '/config'];
@@ -71,6 +72,18 @@ const App: React.FC<AppProps> = (props) => {
             {App}
         </>
     )
+}
+
+export async function getServerSideProps() {
+    try {
+        const data = await request.get('/pages/home');
+        return {
+            props: data
+        }
+    }
+    catch (e) {
+        return {}
+    }
 }
 
 export default App;

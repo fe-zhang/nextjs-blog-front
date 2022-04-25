@@ -30,7 +30,7 @@ const Config: React.FC<IProps> = observer((props) => {
                     content: `修改失败，${e.message}`
                 })
             });
-    }, []);
+    }, [fetchUpdateConf, update]);
 
     // antd initialValues只初始化的时候好用，我们获取数据是异步操作，所以～～
     useEffect(() => {

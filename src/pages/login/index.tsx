@@ -24,7 +24,7 @@ const Login: NextPage = observer(() => {
         if (GlobalStore.userName) {
             Router.push('/admin');
         }
-    }, [GlobalStore.userName]);
+    }, []);
 
     const onFinish = (values: any) => {
         LoginStore.fetchLogin(values)
@@ -67,7 +67,7 @@ const Login: NextPage = observer(() => {
                         </Button>
                     </Form.Item>
                 </Form>
-                <a href='/'>返回首页</a>
+                <Link href='/'>返回首页</Link>
             </div>
         </div>
     )

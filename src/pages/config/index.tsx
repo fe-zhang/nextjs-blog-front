@@ -35,9 +35,9 @@ const Config: NextPage = observer(() => {
         fetchCreate
     } = store;
 
-    const successOnOk = useCallback(() => {
+    const successOnOk = () => {
         Router.push('/admin');
-    }, []);
+    };
 
     const onFinish = useCallback((conf: IConf) => {
         fetchCreate(conf)

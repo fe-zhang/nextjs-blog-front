@@ -51,9 +51,9 @@ const path = [
 ]
 
 const Admin: React.FC = observer(() => {
-    const router = useRouter();
     const [collapsed, setCollapsed] = useState(false);
     const [cur, setCur] = useState('console');
+    const [store] = useState(AdminStore);
 
     useEffect(() => {
         if (!GlobalStore.userName) {
@@ -72,11 +72,11 @@ const Admin: React.FC = observer(() => {
     const component = useMemo(() => {
         switch (cur) {
             case 'conf':
-                return <Config store={AdminStore.config} />
+                return <Config store={store.config} />
             case 'article':
                 return <Article />
         }
-    }, [cur, AdminStore]);
+    }, [cur, store]);
 
     return (
         <Layout className={cls.layout}>

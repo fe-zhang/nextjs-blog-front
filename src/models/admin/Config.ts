@@ -103,12 +103,12 @@ class AdminConfig implements IConfSnapShot {
 
     static updateConf = (conf: IConf): Promise<void> => {
         return request
-            .post('/api/conf/update', conf);
+            .post('/conf/update', conf);
     }
 
     static getConf = (): Promise<IConf> => {
         return request
-            .get('/api/conf/info');
+            .get('/conf/info');
     }
 }
 

@@ -31,7 +31,7 @@ class ConfigStore {
 
     static create = (conf: IConf): Promise<void> => {
         return request
-            .post('/api/user/create', conf);
+            .post('/user/create', conf);
     }
 }
 
