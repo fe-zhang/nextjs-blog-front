@@ -6,6 +6,8 @@ import {Button, Form, Input, Modal} from "antd";
 
 // model
 import AdminConfig, {IConf} from '@models/admin/Config';
+import router from 'next/router';
+import debounce from 'lodash.debounce';
 
 interface IProps {
     store: AdminConfig
@@ -16,8 +18,22 @@ const Config: React.FC<IProps> = observer((props) => {
     const {
         loading,
         update,
-        fetchUpdateConf
+        fetchUpdateConf,
+        fetchConf
     } = props.store;
+
+    // nextJs use effect执行两次 这里防抖一下
+    const getConf = debounce(() => {
+        fetchConf()
+            .then(() => {
+                form.setFieldsValue(props.store)
+            })
+            .catch(() => {});
+    }, 0);
+
+    useEffect(() => {
+        getConf();
+    }, []);
 
     const onFinish = useCallback((values: IConf) => {
         fetchUpdateConf(values)
@@ -31,11 +47,6 @@ const Config: React.FC<IProps> = observer((props) => {
                 })
             });
     }, [fetchUpdateConf, update]);
-
-    // antd initialValues只初始化的时候好用，我们获取数据是异步操作，所以～～
-    useEffect(() => {
-        form.setFieldsValue(props.store)
-    });
 
     return (
         <div>
@@ -74,4 +85,4 @@ const Config: React.FC<IProps> = observer((props) => {
     );
 });
 
-export default Config;
+export default React.memo(Config);

@@ -55,9 +55,13 @@ const Admin: React.FC = observer(() => {
     const [cur, setCur] = useState('console');
     const [store] = useState(AdminStore);
 
+    const jumpLogin = () => {
+        window.location.href = '/login';
+    }
+
     useEffect(() => {
         if (!GlobalStore.isLogin) {
-            Router.push('/login');
+            jumpLogin();
         }
     }, []);
 
@@ -66,7 +70,11 @@ const Admin: React.FC = observer(() => {
     };
 
     const logout = () => {
-        GlobalStore.fetchIsLogout();
+        GlobalStore.fetchIsLogout()
+            .then(() => {
+                jumpLogin();
+            })
+            .catch(() => {});
     }
 
     const setMenu = useCallback((e: { key: SetStateAction<string>; }) => {
@@ -76,11 +84,11 @@ const Admin: React.FC = observer(() => {
     const component = useMemo(() => {
         switch (cur) {
             case 'conf':
-                return <Config store={store.config} />
+                return <Config store={store.config} />;
             case 'article':
                 return <Article />
         }
-    }, [cur, store]);
+    }, [cur, store.config]);
 
     return (
         <Layout className={cls.layout}>

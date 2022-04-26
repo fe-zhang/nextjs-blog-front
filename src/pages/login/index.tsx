@@ -19,18 +19,25 @@ import {Input, Button, Checkbox, Form} from 'antd';
 // style
 import cls from './index.module.sass';
 
-const Login: NextPage<any> = observer((props) => {
-    console.log(props)
+const Login: NextPage = observer(() => {
+    const jumpAdmin = () => {
+        window.location.href = '/admin';
+    }
+
     useEffect(() => {
         if (GlobalStore.isLogin) {
-            window.location.href = '/admin';
+            jumpAdmin();
         }
-    }, [GlobalStore.isLogin]);
+    }, []);
 
     const onFinish = (values: any) => {
         LoginStore.fetchLogin(values)
             .then(() => {
-                GlobalStore.fetchIsLogin().catch(() => {});
+                GlobalStore.fetchIsLogin()
+                    .then(() => {
+                        jumpAdmin();
+                    })
+                    .catch(() => {});
             })
             .catch(e => {
                 Modal.error({
@@ -49,13 +56,13 @@ const Login: NextPage<any> = observer((props) => {
                 >
                     <Form.Item
                         name="username"
-                        rules={[{ required: true, message: 'Please input your username!' }]}
+                        rules={[{ required: true, message: '请输入您的用户名' }]}
                     >
                         <Input placeholder="用户名" />
                     </Form.Item>
                     <Form.Item
                         name="password"
-                        rules={[{ required: true, message: 'Please input your password!' }]}
+                        rules={[{ required: true, message: '请输入您的密码' }]}
                     >
                         <Input.Password placeholder="密码" />
                     </Form.Item>

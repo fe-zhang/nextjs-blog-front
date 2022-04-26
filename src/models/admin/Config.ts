@@ -92,9 +92,6 @@ class AdminConfig implements IConfSnapShot {
             loading: observable,
             update: action.bound
         });
-        // 只需要调用一次，就直接构造时候赋值了
-        this.fetchConf()
-            .catch(() => {});
     }
 
     update(d: IConf) {
