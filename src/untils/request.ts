@@ -4,7 +4,9 @@ import apiUrl from '../config/apiUrl';
 const request = axios.create({
     baseURL: apiUrl,
     timeout: 100000,
-    headers: {}
+    headers: {},
+    // 跨域cookie
+    withCredentials: true
 });
 
 // 请求拦截器 请求的时候做点什么

@@ -74,16 +74,4 @@ const App: React.FC<AppProps> = (props) => {
     )
 }
 
-export async function getServerSideProps() {
-    try {
-        const data = await request.get('/pages/home');
-        return {
-            props: data
-        }
-    }
-    catch (e) {
-        return {}
-    }
-}
-
 export default App;

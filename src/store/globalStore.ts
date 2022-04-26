@@ -6,12 +6,12 @@ import {flow, makeObservable, observable} from 'mobx';
 import request from '@untils/request';
 
 class GlobalStore {
-    userName: string = '';
+    isLogin: boolean = false;
 
-    fetchPermission = flow<void, []>(function* _(this: GlobalStore) {
+    fetchIsLogin = flow<void, []>(function* _(this: GlobalStore) {
         try {
-            const res = yield GlobalStore.permission();
-            this.userName = res.username;
+            const res = yield GlobalStore.isLogin();
+            this.isLogin = res.isLogin;
         }
         catch (e) {
             if (e instanceof Error) {
@@ -20,15 +20,32 @@ class GlobalStore {
         }
     }).bind(this);
 
+    fetchIsLogout = flow<void, []>(function* _(this: GlobalStore) {
+        try {
+            yield GlobalStore.logout();
+            this.isLogin = false;
+        }
+        catch (e) {
+            if (e instanceof Error) {
+                throw new Error(e.message);
+            }
+        }
+    }).bind(this);
+
+
     constructor() {
         makeObservable(this, {
-            userName: observable
+            isLogin: observable
         });
-        this.fetchPermission().catch(() => {});
+        this.fetchIsLogin().catch(() => {});
     }
 
-    static permission = (): Promise<void> => {
-        return request.get('/user/permission');
+    static isLogin = (): Promise<void> => {
+        return request.get('/user/isLogin');
+    }
+
+    static logout = (): Promise<void> => {
+        return request.get('/user/logout');
     }
 }
 

@@ -19,17 +19,18 @@ import {Input, Button, Checkbox, Form} from 'antd';
 // style
 import cls from './index.module.sass';
 
-const Login: NextPage = observer(() => {
+const Login: NextPage<any> = observer((props) => {
+    console.log(props)
     useEffect(() => {
-        if (GlobalStore.userName) {
-            Router.push('/admin');
+        if (GlobalStore.isLogin) {
+            window.location.href = '/admin';
         }
-    }, []);
+    }, [GlobalStore.isLogin]);
 
     const onFinish = (values: any) => {
         LoginStore.fetchLogin(values)
             .then(() => {
-                GlobalStore.fetchPermission().catch(() => {});
+                GlobalStore.fetchIsLogin().catch(() => {});
             })
             .catch(e => {
                 Modal.error({

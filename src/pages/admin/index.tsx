@@ -56,7 +56,7 @@ const Admin: React.FC = observer(() => {
     const [store] = useState(AdminStore);
 
     useEffect(() => {
-        if (!GlobalStore.userName) {
+        if (!GlobalStore.isLogin) {
             Router.push('/login');
         }
     }, []);
@@ -64,6 +64,10 @@ const Admin: React.FC = observer(() => {
     const toggle = () => {
         setCollapsed(!collapsed);
     };
+
+    const logout = () => {
+        GlobalStore.fetchIsLogout();
+    }
 
     const setMenu = useCallback((e: { key: SetStateAction<string>; }) => {
         setCur(e.key)
@@ -104,6 +108,7 @@ const Admin: React.FC = observer(() => {
                 <Content
                     className={cls.content}
                 >
+                    <div onClick={logout}>logout</div>
                     {component}
                 </Content>
             </Layout>

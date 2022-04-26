@@ -36,7 +36,7 @@ const Config: NextPage = observer(() => {
     } = store;
 
     const successOnOk = () => {
-        Router.push('/admin');
+        window.location.href = '/admin';
     };
 
     const onFinish = useCallback((conf: IConf) => {
